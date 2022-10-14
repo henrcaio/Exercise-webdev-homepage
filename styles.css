@@ -17,15 +17,6 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-.toolbar {
-  float: left;
-  display: block;
-  text-align: center;
-  padding: 1rem 1rem;
-  text-decoration: none;
-  font-style: italic;
-}
-
 .toolbar:hover {
   background-color: #333333;
   border-radius: 15px 50px 30px 5px;
@@ -42,10 +33,6 @@ h1 {
   font-size: 48px;
 }
 
-.container {
-  padding: 1rem 1rem 20rem;
-}
-
 .question {
   padding: 1rem 0rem;
 }
@@ -58,12 +45,6 @@ h1 {
   border-radius: 0.75rem;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
 
 button, input[type="submit"] {
   background-color: #da2828;
@@ -76,11 +57,6 @@ button, input[type="submit"] {
   text-align: center;
   vertical-align: middle;
 }
-
-#a1, #a2, #a3 {
-  padding: 1rem;
-}
-
 
 footer {
   position: absolute;
